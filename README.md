@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9164801&assignment_repo_type=AssignmentRepo)
 # Assignment 1: Project Proposal and Repository Set-up
 
 You will complete three assignments that will culminate in developing a full-stack web application. For this first assignment, you propose what type of app you will build and provide documentation via the readme file on what type of application you will build.  Listed below are the deliverables you will need to complete to satisfy the requirements of the assignment. After this course, your application will consist of the following components listed below.
