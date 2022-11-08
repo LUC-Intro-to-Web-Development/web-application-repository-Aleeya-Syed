@@ -1,25 +1,25 @@
-# Childhood Vaccine Checker Project Description
-Developers: Diana Shea, Esmeralda Espinal, Aleeya Syed
-Application Name: Childhood Vaccine Checker
+# Flu Shot Finder Project Description
+Developers: Diana Shea, Esmeralda Espinal, Aleeya Syed<br/>
+Application Name: Flu Shot Finder :syringe:
 
 ## Description
-This application will identify the recommended vaccines for a child based on their age. The user will enter a birthdate and the application will report the recommended vaccines for a person of that age according to the Academy of Pediatrics.
+This application will identify free flu shot locations within the zip code provided by the user.
 
 ## Purpose
-Effective vaccine management includes easy access to information regarding targeted vaccine recommendations for a child based on age. Parents may feel confused about the need for vaccines or the recommended schedule. This tool will alleviate reliance on a doctor's office to disseminate information about the vaccine schedule and give parents greater control of vaccine education and management.
+Staying up to date with annual flu shots saves lives. Thankfully, many pharmacies and organizations provide access to free flu shots. This tool makes it easy to find a nearby locaiton to get a flu shot, cutting down on the need to drive longer distances or withstand extended wait periods for appointments due to lack of knowledge of other available locations. 
 
 ## Target Audience
-Parents of children of any age. :baby:
+Everyone! :family:
 
 ## Application Pages
-* **Home** Main page offers dialog box for user to enter birthdate and get custom vaccine schedule.
-* **Resources** This page shows links to information from trusted sources about vaccines and related topics. The user will be able to learn more about importance of vaccines.
-* **Educate** This page displays facts about childhood vaccinations in a sequential, methodical way that serves to motivate parents to follow the recommended vaccination schedule. The user will learn about key reasons to vaccinate and the unfortunate consequences of ignoring recommended vaccine schedules.
+* **Home** Main page offers dialog box for user to enter zip code and get custom list of flu shot locations.
+* **Resources** This page shows links to information from trusted sources about vaccines and related topics. 
+* **Educate** This page displays facts about flu vaccinations and motivates people to follow get vaccinated each year. The user will learn about key reasons to vaccinate and the unfortunate consequences of ignoring recommended guidance.
 
 ## Application Goals
-1. To create custom vaccination schedule
-2. To educate parents about the importance of childhood vaccinations
-3. To provide additional resources for parents that want to learn more about childhood vaccines 
+1. To create list of nearby flu shot locations
+2. To educate people about the importance of flu vaccinations
+3. To provide additional resources for people that want to learn more about vaccines in general
 
 ## Tools/Software
 Our team will use a variety of tools to complete our project.
