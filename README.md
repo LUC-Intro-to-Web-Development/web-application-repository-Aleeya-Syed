@@ -1,5 +1,5 @@
 # Childhood Vaccine Checker Project Description
-Developpers: Diana Shea, Esmeralda Espinal, Aleeya Syed
+Developers: Diana Shea, Esmeralda Espinal, Aleeya Syed
 Application Name: Childhood Vaccine Checker
 
 ## Description
@@ -13,8 +13,8 @@ Parents of children of any age. :baby:
 
 ## Application Pages
 * **Home** Main page offers dialog box for user to enter birthdate and get custom vaccine schedule.
-* **Resources** This page shows links to information from trusted sources about vaccines nd related topics. The user will be able to learn more about importance of vaccines.
-* **Educate** This page displays facts about childhood vaccinations in a sequential, methodical way that serves to motivate parents to follow the recommended vaccination schedule. The user will learn about key reasons to vaccinate and the unfortunate consequences of ignoring recommende vaccine schedules.
+* **Resources** This page shows links to information from trusted sources about vaccines and related topics. The user will be able to learn more about importance of vaccines.
+* **Educate** This page displays facts about childhood vaccinations in a sequential, methodical way that serves to motivate parents to follow the recommended vaccination schedule. The user will learn about key reasons to vaccinate and the unfortunate consequences of ignoring recommended vaccine schedules.
 
 ## Application Goals
 1. To create custom vaccination schedule
