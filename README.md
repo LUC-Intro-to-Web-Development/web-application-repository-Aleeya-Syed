@@ -26,3 +26,4 @@ Our team will use a variety of tools to complete our project.
 * *Microsoft Teams* - we will use this tool for collaboration and discussion
 * *GitHub* - We will use the Projects functionality for project management and the Repository function for version control
 * *Visual Studio Code* - We will use as our development environment
+* *NPM - We wil use this registry to add and use external modules for our application
