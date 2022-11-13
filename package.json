@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LUC-Intro-to-Web-Development/web-application-repository-Aleeya-Syed/issues"
   },
-  "homepage": "https://github.com/LUC-Intro-to-Web-Development/web-application-repository-Aleeya-Syed#readme"
+  "homepage": "https://github.com/LUC-Intro-to-Web-Development/web-application-repository-Aleeya-Syed#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
 }
