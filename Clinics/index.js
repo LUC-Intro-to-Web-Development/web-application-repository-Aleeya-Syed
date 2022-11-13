@@ -1,6 +1,6 @@
 var fs = require('fs');
 
-fs.readFile('index.txt', 'utf8', function(err, contents) {
+fs.readFile('FluClinics.txt', 'utf8', function(err, contents) {
     console.log(contents);
 });
  
