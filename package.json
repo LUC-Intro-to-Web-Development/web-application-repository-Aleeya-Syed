@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/LUC-Intro-to-Web-Development/web-application-repository-Aleeya-Syed#readme",
   "dependencies": {
-    "mysql": "^2.18.1"
+    "chalk": "^5.1.2"
   }
 }
