@@ -1,0 +1,22 @@
+{
+  "name": "flu_shot_locator",
+  "version": "1.0.0",
+  "description": "This application will identify free flu shot locations within the zip code provided by the user.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LUC-Intro-to-Web-Development/web-application-repository-Aleeya-Syed.git"
+  },
+  "author": "Aleeya Syed, Esmeralda Espinal, Diana Shea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LUC-Intro-to-Web-Development/web-application-repository-Aleeya-Syed/issues"
+  },
+  "homepage": "https://github.com/LUC-Intro-to-Web-Development/web-application-repository-Aleeya-Syed#readme",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
